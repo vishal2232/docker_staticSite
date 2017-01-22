@@ -7,4 +7,5 @@ pull the docker image<br>
 **$ _docker run -d -P --name static-site static-site_**</br>
 **$ _docker port static-site_**<br>
 terminal output:<br>80/tcp -> 0.0.0.0:32769<br>
-443/tcp -> 0.0.0.0:32768
+443/tcp -> 0.0.0.0:32768<br>
+ now open the link http://localhost:32769
