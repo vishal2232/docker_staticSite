@@ -10,7 +10,6 @@ Run the container in detached mode<br><br>
 **$ _docker run -d -P --name static-site static-site_**</br><br> 
 ***
 **$ _docker port static-site_**<br>
-***
 terminal output:<br>80/tcp -> 0.0.0.0:32769<br>
 443/tcp -> 0.0.0.0:32768<br><br>
 ***
