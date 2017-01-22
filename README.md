@@ -2,7 +2,8 @@
 Hosting a website locally using docker.<br>https://hub.docker.com/r/vishal2232/static-site/
 ##Steps
 Pull the docker image<br>
-**$ _'''bash
+**$ _
+'''python
 docker pull vishal2232/static-site
 '''
 _**<br>Run docker image.<br><br>
