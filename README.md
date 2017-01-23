@@ -10,7 +10,7 @@ Run the container in detached mode<br><br>
 **$ _`docker run -d -P --name static-site static-site`_**</br><br> 
 ***
 **$ _`docker port static-site`_**<br>
-`terminal output:<br>80/tcp -> 0.0.0.0:32769<br>
+`terminal output`:<br>80/tcp -> 0.0.0.0:32769<br>
 443/tcp -> 0.0.0.0:32768`<br><br>
 ***
  now open the url<br>`[http://localhost:32769] (http://localhost:32769)` <br>
